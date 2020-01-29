@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-29T15:07:47.982Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="ypHgfYvyYe88zrKlKJes" version="12.6.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-29T17:12:15.313Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="PfF96aJE4RXQxeALUeYw" version="12.6.1" type="github">
   <diagram id="cRXUeBUXGWDd1OiZv_z3" name="Page-1">
     <mxGraphModel dx="744" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,10 +64,16 @@
             <Array as="points"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ewLpOwo3dWslivy74AdR-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;endSize=6;targetPerimeterSpacing=0;strokeWidth=1;fontFamily=Courier New;fontSize=10;" edge="1" parent="1" source="ewLpOwo3dWslivy74AdR-33" target="ewLpOwo3dWslivy74AdR-119">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="ewLpOwo3dWslivy74AdR-33" value="Authentication Service" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Courier New;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="353" y="240" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="ewLpOwo3dWslivy74AdR-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=9;" edge="1" parent="1" source="ewLpOwo3dWslivy74AdR-40" target="ewLpOwo3dWslivy74AdR-78">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ewLpOwo3dWslivy74AdR-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=none;endSize=6;targetPerimeterSpacing=0;strokeWidth=1;fontFamily=Courier New;fontSize=10;startFill=0;" edge="1" parent="1" source="ewLpOwo3dWslivy74AdR-40" target="ewLpOwo3dWslivy74AdR-119">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="ewLpOwo3dWslivy74AdR-40" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=9;" vertex="1" parent="1">
@@ -188,6 +194,9 @@
         </mxCell>
         <mxCell id="ewLpOwo3dWslivy74AdR-118" value="&lt;span style=&quot;font-size: 9px&quot;&gt;store&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;salary slips/Customer photos&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontFamily=Courier New;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="230" y="459" width="170" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="ewLpOwo3dWslivy74AdR-119" value="&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 10px&quot;&gt;Service Mesh&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.app_mesh;" vertex="1" parent="1">
+          <mxGeometry x="276" y="320" width="40" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
